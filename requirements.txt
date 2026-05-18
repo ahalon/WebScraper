@@ -11,3 +11,6 @@ numpy==2.4.4
 # Environment
 ipykernel==7.2.0
 PyYAML==6.0.3
+
+# Calendar Handling
+icalendar==4.1.0
